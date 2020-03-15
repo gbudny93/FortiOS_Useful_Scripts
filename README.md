@@ -3,9 +3,13 @@
 
 ## Change log
 
+  - 3/15/2020 Initial Release 
+
 ## Prerequisites
+> Scripts where written and tested on FortiOS higher than 5.2 
 
 ## How to use
+
 
 ## Authors
 
